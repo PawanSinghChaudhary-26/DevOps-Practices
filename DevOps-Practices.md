@@ -13,6 +13,22 @@
 ->so the pdf contains some of the steps to install docker and perform various operations on docker and image containers on your instance.
 ### Do Check That Out...
 
+# In day-3:
+### VPC (Virtual Private Cloud) & Terraform was the main area or focus , where we got to know about;
+
+👉 What is the difference between Availability zone and Region?<br>
+👉 By default, where does Terraform store its state file?​<br>
+👉 For say we already have infrastructure in a cloud provider,and now want to start using terraform, what can be the possible solution here?<br>
+👉 What is the file format of Terraform code files?<br>
+👉 What is the command to create infrastructure in Terraform?<br>
+👉 The file extension with which Terraform language is stored in plain text files.<br>
+👉 Why do we create subnets created in AWS?<br>
+👉 State one point to differentiate between EC2 and VPC.<br>
+👉 Why should one use the AWS IAM?<br>
+👉 Is a gateway just a router , difference between the both?<br>
+
+=> hands on to Terraform in Amazon Linux machine.
+
 # In day-4:
 ### Jenkins was the topic wherein , i learned about:
 
@@ -27,4 +43,4 @@
 👉 How to store credentials in Jenkins securely?<br>
 👉 How can we stop a Jenkins job from being executed temporarily?<br>
 
-=>along with it hands on experience on Jenkin tool.
+=> along with it hands on experience on Jenkins tool.
