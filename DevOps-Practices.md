@@ -16,15 +16,15 @@
 # In day-4:
 ### Jenkins was the topic wherein , i learned about:
 
-👉 Why Jenkins is better than other CI tools like Bamboo & TeamCity?
-👉 Three fundamental stages of a Jenkins pipeline.
-👉 For what the JENKINS_HOME directory used for?
-👉 The terms Continuous Deployment, Continuous Delivery, and Continuous Integration?
-👉 When working on a pipeline, if the second job fails, after the first job was successful, what next to do?
-👉 In Jenkins, what is the default port?
-👉 What are Jenkins plugins?
-👉 Jenkins is based on which programming language? also,the languages it supports.
-👉 How to store credentials in Jenkins securely?
-👉 How can we stop a Jenkins job from being executed temporarily?
+👉 Why Jenkins is better than other CI tools like Bamboo & TeamCity?<br>
+👉 Three fundamental stages of a Jenkins pipeline.<br>
+👉 For what the JENKINS_HOME directory used for?<br>
+👉 The terms Continuous Deployment, Continuous Delivery, and Continuous Integration?<br>
+👉 When working on a pipeline, if the second job fails, after the first job was successful, what next to do?<br>
+👉 In Jenkins, what is the default port?<br>
+👉 What are Jenkins plugins?<br>
+👉 Jenkins is based on which programming language? also,the languages it supports.<br>
+👉 How to store credentials in Jenkins securely?<br>
+👉 How can we stop a Jenkins job from being executed temporarily?<br>
 
 =>along with it hands on experience on Jenkin tool.
